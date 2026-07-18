@@ -68,14 +68,6 @@ Containerized a Golang application using Docker multi-stage builds and Distroles
 
 ---
 
-## 📊 GitHub Statistics
-
-![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathan-paule&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathan-paule&theme=radical&layout=compact)
-
----
-
 ## 🎯 What I'm Currently Doing
 
 
